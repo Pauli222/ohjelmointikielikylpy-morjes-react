@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Reactin oppiminen tuo epäreilun kilpailuedun
         </a>
       </header>
     </div>
